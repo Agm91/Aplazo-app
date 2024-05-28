@@ -1,6 +1,16 @@
 # aplazo_app
 
-A brief description of what your project does.
+This application needs [the AplazoBackend Repository](https://github.com/Agm91/AplazoBackend) for it to work.
+
+The application flow begins with a **User Registration** screen, where users are required to enter their name and date of birth.
+
+Next, the **List of Purchases** screen displays all recorded purchases.
+
+Following this, users can navigate to the **Register Purchase** screen to input new purchase details.
+
+Finally, the **Success** screen confirms the successful registration of a purchase.
+
+It has **en** and **es** languages.
 
 ## Prerequisites
 
@@ -72,7 +82,7 @@ Functionality [here](https://drive.google.com/drive/folders/1wHZ1NmDKr3DqPVN5ZFT
 
 ## Considerations
 
-Definetely too much to be done here but I decided to focus on speed. 
+Definitely too much to be done here but I decided to focus on speed. 
 
  - Improve the Clean arquitecture to make it more testable.
  - Language improvement with dictionary download with online services.
