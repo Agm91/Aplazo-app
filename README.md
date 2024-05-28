@@ -23,7 +23,17 @@ Refer to [AplazoBackend Repository](https://github.com/Agm91/AplazoBackend) for 
 ### Step 3: Set Up Your Emulator
 Make sure you have an emulator set up.
 
-### Step 4: Run the Flutter Application
+### Step 4: lib/config.dart
+
+Create a file containing:
+
+```sh
+class Config {
+  static const String apiUrl = 'http://10.0.2.2:8080'; //normally for a emulator
+}
+```
+
+### Step 5: Run the Flutter Application
 
 Ensure that your emulator is running.
 
