@@ -1,0 +1,16 @@
+{
+    "error": "Error",
+    "error_empty": "Fields cannot be left empty.",
+    "error_age": "We are sorry. We can offer service only for users with age between 18 and 65.",
+    "title_register_customer": "Register customer",
+    "title_list_purchases": "List of Purchases",
+    "title_register_purchase": "Register Purchase",
+    "title_success": "Success",
+    "label_purchase_amount": "Purchase Amount: {amount}",
+    "label_purchase_register_success": "Purchase completed successfully!",
+    "field_name": "Name",
+    "field_date_of_birth": "Date of Birth",
+    "field_purchase_amount": "Purchase Amount",
+    "button_register_customer":"Register customer",
+    "button_register_purchase":"Register purchase"
+}

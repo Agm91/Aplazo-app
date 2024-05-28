@@ -1,0 +1,16 @@
+{
+    "error": "Error",
+    "error_empty": "Campos no se pueden dejar vacios",
+    "error_age": "Lo sentimos. Solo podemos brindar servicio a usuarios entre 18 y 65 anos de edad.",
+    "title_register_customer": "Registrar cliente",
+    "title_list_purchases": "Lista de Compras",
+    "title_register_purchase": "Registrar Compra",
+    "title_success": "Exito",
+    "label_purchase_amount": "Valor de compra: {amount}",
+    "label_purchase_register_success": "Compra registrada exitosamente!",
+    "field_name": "Nombre",
+    "field_date_of_birth": "Edad de nacimiento",
+    "field_purchase_amount": "Valor de compra",
+    "button_register_customer":"Registrar cliente",
+    "button_register_purchase":"Registrar compra"
+}
